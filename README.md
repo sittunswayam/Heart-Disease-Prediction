@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction [ongoing]
+# Heart Disease Prediction [ongoing]
 
 Dataset obtained from: https://www.kaggle.com/ronitf/heart-disease-uci/tasks?taskId=82
 
